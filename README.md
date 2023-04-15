@@ -8,9 +8,6 @@
 
 - 💬 Ask me about **Data Science, Data Analysis, Digital Marketing**
 
-- 📫 How to reach me **phonvanna_author@yahoo.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

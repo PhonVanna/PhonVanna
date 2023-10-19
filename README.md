@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist, Web Developer, Digital Marketer</h3>
 <img align="right" alt="data-scientist" width="400" margin="10" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phonvanna&label=Profile%20views&color=0e75b6&style=flat" alt="phonvanna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phonvanna&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="phonvanna" /> </p>
 
 - 🌱 I’m currently learning **Data Science, AI, Digital Marketing**
 
